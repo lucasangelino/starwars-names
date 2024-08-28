@@ -1,0 +1,20 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Lucas Angelino <angelino.n.lucas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "unique-random-array": "4.0.0"
+  }
+}
